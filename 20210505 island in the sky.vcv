@@ -210,7 +210,7 @@
     {
       "id": 1387,
       "plugin": "JW-Modules",
-      "version": "1.0.25",
+      "version": "1.0.27",
       "model": "Quantizer",
       "params": [
         {
@@ -237,7 +237,7 @@
     {
       "id": 1389,
       "plugin": "JW-Modules",
-      "version": "1.0.25",
+      "version": "1.0.27",
       "model": "SimpleClock",
       "params": [
         {
@@ -271,7 +271,7 @@
     {
       "id": 1390,
       "plugin": "JW-Modules",
-      "version": "1.0.25",
+      "version": "1.0.27",
       "model": "Str1ker",
       "params": [
         {
@@ -469,7 +469,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.0
+          "value": 0.789970756
         },
         {
           "id": 1,
@@ -477,7 +477,7 @@
         },
         {
           "id": 2,
-          "value": 0.0
+          "value": 1.01297724
         },
         {
           "id": 3,
@@ -561,7 +561,7 @@
         },
         {
           "id": 23,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 24,
@@ -777,9 +777,9 @@
         "groupedAuxReturnFeedbackProtection": 1,
         "ecoMode": 65535,
         "faders": [
-          0.0,
+          0.789970756,
           0.990298629,
-          0.0,
+          1.01297724,
           0.990299106,
           0.746755481,
           1.0,
@@ -2672,7 +2672,7 @@
     {
       "id": 1411,
       "plugin": "JW-Modules",
-      "version": "1.0.25",
+      "version": "1.0.27",
       "model": "Quantizer",
       "params": [
         {
